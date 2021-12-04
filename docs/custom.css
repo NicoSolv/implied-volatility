@@ -1,0 +1,4 @@
+#header-container ,
+body > #header .header-bar{
+display: none!important;
+}
